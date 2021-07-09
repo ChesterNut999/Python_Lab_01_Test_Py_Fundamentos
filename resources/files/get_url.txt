@@ -1,0 +1,1479 @@
+<!DOCTYPE html>
+<html lang="pt-BR" prefix="og: http://ogp.me/ns# og: http://ogp.me/ns#">
+  <head>
+    <script
+      data-ad-client="ca-pub-2820570875031665"
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+    ></script>
+    <!-- Google Tag Manager -->
+    <script>
+      (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+        j.async = true;
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-KNTPB4F");
+    </script>
+    <!-- End Google Tag Manager -->
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta property="og:url" content="https://digitalinnovation.one/" />
+    <meta property="og:type" content="website" />
+    
+    <meta property="og:title" content="Digital Innovation One" />
+    <meta
+      property="og:description"
+      content="Cursos grátis de tecnologia e inovação | Digital Innovation One"
+    />
+    <meta
+      property="og:image"
+      content="https://hermes.digitalinnovation.one/site/images/cover_dio.jpg"
+    />
+    
+    <title>
+      Cursos grátis de tecnologia e inovação | Digital Innovation One
+    </title>
+    <link
+      rel="apple-touch-icon"
+      sizes="57x57"
+      href="https://hermes.digitalinnovation.one/site/icons/57x57.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="60x60"
+      href="https://hermes.digitalinnovation.one/site/icons/60x60.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="72x72"
+      href="https://hermes.digitalinnovation.one/site/icons/72x72.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="76x76"
+      href="https://hermes.digitalinnovation.one/site/icons/76x76.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="114x114"
+      href="https://hermes.digitalinnovation.one/site/icons/114x114.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="120x120"
+      href="https://hermes.digitalinnovation.one/site/icons/120x120.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="144x144"
+      href="https://hermes.digitalinnovation.one/site/icons/144x144.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="152x152"
+      href="https://hermes.digitalinnovation.one/site/icons/152x152.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="https://hermes.digitalinnovation.one/site/icons/180x180.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="192x192"
+      href="https://hermes.digitalinnovation.one/site/icons/192x192.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="https://hermes.digitalinnovation.one/site/icons/32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="96x96"
+      href="https://hermes.digitalinnovation.one/site/icons/96x96.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="https://hermes.digitalinnovation.one/site/icons/16x16.png"
+    />
+    <meta
+      name="msapplication-TileImage"
+      content="https://hermes.digitalinnovation.one/site/icons/44x144.png"
+    />
+
+    <!-- Default stylesheets-->
+
+    <meta name="apple-itunes-app" content="app-id=1439709522" />
+    <meta name="google-play-app" content="app-id=one.digitalinnovation.app" />
+    <link
+      rel="apple-touch-icon"
+      href="https://hermes.digitalinnovation.one/site/icons/minimized.png"
+    />
+    <link
+      rel="android-touch-icon"
+      href="https://hermes.digitalinnovation.one/site/icons/minimized.png"
+    />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+      integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="/static/site.css" />
+    <link rel="stylesheet" href="/static/business.css" />
+    <link rel="stylesheet" href="/static/tech-cities.css" />
+
+    <!-- Hotjar Tracking Code for digitalinnovation.one -->
+    <script>
+      (function(h, o, t, j, a, r) {
+        h.hj =
+          h.hj ||
+          function() {
+            (h.hj.q = h.hj.q || []).push(arguments);
+          };
+        h._hjSettings = { hjid: 517761, hjsv: 5 };
+        a = o.getElementsByTagName("head")[0];
+        r = o.createElement("script");
+        r.async = 1;
+        r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+        a.appendChild(r);
+      })(window, document, "//static.hotjar.com/c/hotjar-", ".js?sv=");
+    </script>
+
+    <!-- Facebook Pixel Code -->
+    <script>
+      !(function(f, b, e, v, n, t, s) {
+        if (f.fbq) return;
+        n = f.fbq = function() {
+          n.callMethod
+            ? n.callMethod.apply(n, arguments)
+            : n.queue.push(arguments);
+        };
+        if (!f._fbq) f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = "2.0";
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s);
+      })(
+        window,
+        document,
+        "script",
+        "https://connect.facebook.net/en_US/fbevents.js"
+      );
+      fbq("init", "529970670506180");
+      fbq("track", "PageView");
+    </script>
+    <noscript>
+      <img
+        height="1"
+        width="1"
+        src="https://www.facebook.com/tr?id=529970670506180&ev=PageView&noscript=1"
+      />
+    </noscript>
+  </head>
+
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript
+      ><iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-KNTPB4F"
+        height="0"
+        width="0"
+        style="display:none;visibility:hidden"
+      ></iframe
+    ></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <header>
+      <nav class="navbar navbar-expand-lg navbar-light fixed-top nav-custom">
+        <a class="navbar-brand" href="/">
+          <img
+            width="200"
+            src="https://hermes.digitalinnovation.one/site/images/logo-white.png"
+            alt=""
+          />
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          
+<ul class="navbar-nav navbar-right">
+
+  
+  <li class="nav-item mr-4">
+    <a class="nav-link pt-1" href="/recruiters">SOU EMPRESA</a>
+  </li>
+  <li class="nav-item mr-4">
+    <a class="nav-link pt-1" href="/faq">Dúvidas?</a>
+  </li>
+  <li class="nav-item">
+    <a class="my-2 my-sm-0" href="/sign-in">
+      <span class="pr-2">Já tem cadastro?</span>
+      <span class="btn btn-light btn-sm">ENTRAR</span>
+    </a>
+  </li>
+</ul>
+
+        </div>
+      </nav>
+    </header>
+    <main>
+      
+<section class="intro">
+  <!-- <div class="row mt-2">
+    <a href="https://digitalinnovation.ac-page.com/black-friday-2020" target="_blank" class="w-100">
+      <img class="w-100" src="https://hermes.digitalinnovation.one/site/images/bf-banner.jpg" />
+    </a>
+  </div> -->
+  <div class="container-fluid">
+    <div class="row mt-5">
+      <div class="col-lg-6 col-md-7 col-sm-12">
+        <div class="row ">
+          <div class="col-md-12">
+            <h1>ACELERE SUA CARREIRA <br /> NA VELOCIDADE DO MERCADO.</h1>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-12">
+            <p class="description">
+              Domine as tecnologias utilizadas pelas empresas mais inovadoras do mundo construindo projetos em conjunto com a nossa comunidade colaborativa de +450 mil desenvolvedores.
+            </p>
+          </div>
+        </div>
+
+        <div class="row mt-4">
+          <div class="col-md-12 div-cards">
+            <div class="card-columns">
+              <a href="/sign-up">
+                <div class="card card-course">
+                  <div class="card-body">
+                    <div class="row">
+                      <div class="col-3">
+                        <img src='https://hermes.digitalinnovation.one/site/images/icons/desenvolvedor_fullstack.png'>
+                      </div>
+                      <div class="col-9 pr-0">
+                        <p class="card-text">DESENVOLVEDOR FULL-STACK</p>
+                        <p class="legend">
+                          JavaScript, HTML, ReactJS, Banco de Dados, Node.js e
+                          mais...</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a>
+              <a href="/sign-up">
+                <div class="card card-course">
+                  <div class="card-body">
+                    <div class="row">
+                      <div class="col-3">
+                        <img src='https://hermes.digitalinnovation.one/site/images/icons/desenvolvedor_backend.png'>
+                      </div>
+                      <div class="col-9">
+                        <p class="card-text">DESENVOLVEDOR BACK-END</p>
+                        <p class="legend">NodeJS, Python, Git, MongoDB, Express e
+                          mais...</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a>
+              <a href="/sign-up">
+                <div class="card card-course">
+                  <div class="card-body">
+                    <div class="row">
+                      <div class="col-3">
+                        <img src='https://hermes.digitalinnovation.one/site/images/icons/desenvolvedor_frontend.png'>
+                      </div>
+                      <div class="col-9">
+                        <p class="card-text">DESENVOLVEDOR FRONT-END</p>
+                        <p class="legend">Lógica de Programação, HTML, CSS3, JavaScript, ES6 e ReactJS e
+                          mais...</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a>
+              <a href="/sign-up">
+                <div class="card card-course">
+                  <div class="card-body">
+                    <div class="row">
+                      <div class="col-3">
+                        <img src='https://hermes.digitalinnovation.one/site/images/icons/desenvolvedor_python.png'>
+                      </div>
+                      <div class="col-9">
+                        <p class="card-text">DESENVOLVEDOR PYTHON</p>
+                        <p class="legend">Flask, Django, Bootstrap, PostgreSQL, SCRUM e
+                          mais...</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="row mt-3">
+          <div class="col-md-12">
+            <h6>+ ENTRE OUTRAS TECNOLOGIAS</h6>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-5 offset-lg-2">
+        <div class="card card-signup">
+          <div class="card-body">
+            <h5>COMECE AGORA. É GRÁTIS!</h5>
+            <h5 style="font-size: 13px;">
+              <a class="text-decoration-none text-light" href="/sign-in">
+                Já tem conta? <u>Fazer login</u>
+              </a>
+            </h5>
+            <div class="alert alert-danger mt-3 text-center hidden" id="alert-email" role="alert">
+              Usuário já cadastrado!
+            </div>
+            <form class="mt-5" id="signup-form" onsubmit="return false;">
+              <div class="form-label-group">
+                <input type="text" class="form-control" id="name" required name="name"
+                  placeholder="NOME COMPLETO" />
+                <label for="name">NOME COMPLETO</label>
+              </div>
+              <div class="form-label-group">
+                <input type="email" class="form-control" id="email" required name="email"
+                  placeholder="E-MAIL" />
+                <label for="email">E-MAIL</label>
+              </div>
+              <div class="form-label-group">
+                <input type="password" class="form-control" id="password" required name="password"
+                  placeholder="SENHA" />
+                <label for="password">SENHA</label>
+              </div>
+              <div class="form-label-group">
+                <input type="phone" class="form-control" id="phone" name="phone" data-js="phone" required
+                  placeholder="CELULAR" />
+                <label for="phone">CELULAR</label>
+              </div>
+              <button type="submit" class="btn btn-primary btn-block mt-5">
+                <span class="text-button">CRIAR MINHA CONTA GRÁTIS</span>
+                <div class="spinner-border text-light hidden" role="status"></div>
+              </button>
+            </form>
+            <div class="row mt-5 mb-3 row-policy">
+              <div class="col-12">
+                <p class="policy">Ao clicar em "criar minha conta grátis", declaro que aceito as <a href='https://app.digitalinnovation.one/policy' target='_blank'>Políticas de Privacidade</a> e os <a href='https://app.digitalinnovation.one/terms' target='_blank'>Termos de Uso</a> da Digital Innovation One.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="study-free-with-inovators-professionals">
+  <div class="container-title-image">
+    <div class="row title-image">
+      <div class="col-md-6 col-xs-12">
+        <h3>
+          APRENDA GRATUITAMENTE COM OS PROFISSIONAIS MAIS INOVADORES DO MERCADO.
+        </h3>
+      </div>
+      <div class="col-md-6 col-xs-12">
+        <img
+          src="https://hermes.digitalinnovation.one/site/images/sky_rocket.png"
+          alt="rocket on sky"
+        />
+      </div>
+    </div>
+  </div>
+
+  <div class="container pt-5">
+    <div class="row blog">
+      <div class="col-md-12">
+        <div id="ourProfessionals" class="carousel slide" data-ride="carousel">
+          <ol class="carousel-indicators">
+            <li
+              data-target="#ourProfessionals"
+              data-slide-to="0"
+              class="carousel-control-prev"
+            >
+              <span class="carousel-control-prev-icon"></span>
+            </li>
+            <li
+              data-target="#ourProfessionals"
+              data-slide-to="1"
+              class="carousel-control-next"
+            >
+              <span class="carousel-control-next-icon"></span>
+            </li>
+          </ol>
+
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-md-3">
+                  <img
+                    src="//hermes.digitalinnovation.one/site/images/teachers/laislima.jpeg"
+                    alt="Lais Lima"
+                    width="270"
+                  />
+                  <h3>Laís Lima</h3>
+                  <h4 class="text-center">Software Engineer</h4>
+                  <h5>Estratégia Educacional</h5>
+                </div>
+
+                <div class="col-md-3">
+                  <img
+                    src="//hermes.digitalinnovation.one/site/images/teachers/lucassantos.jpeg"
+                    alt="Lucas Santos"
+                    width="270"
+                  />
+                  <h3>Lucas Santos</h3>
+                  <h4 class="text-center">Cloud Developer Advocate</h4>
+                  <h5>Microsoft</h5>
+                </div>
+                <div class="col-md-3">
+                  <img
+                    src="//hermes.digitalinnovation.one/site/images/teachers/kamilaoliveira.jpeg"
+                    alt="Kamila Oliveira"
+                    width="270"
+                  />
+                  <h3>Kamila Oliveira</h3>
+                  <h4 class="text-center">Backend Developer</h4>
+                  <h5>Ame Digital</h5>
+                </div>
+                <div class="col-md-3">
+                  <img
+                    src="//hermes.digitalinnovation.one/site/images/teachers/oswaldoneto.jpeg"
+                    alt="Oswaldo Neto"
+                    width="270"
+                  />
+                  <h3>Oswaldo Neto</h3>
+                  <h4 class="text-center">CTO</h4>
+                  <h5>Lady Driver</h5>
+                </div>
+              </div>
+            </div>
+
+            <div class="carousel-item">
+              <div class="row">
+                <div class="col-md-3">
+                  <img
+                    src="//hermes.digitalinnovation.one/site/images/teachers/eduardocesar.jpeg"
+                    alt="Eduardo Cesar"
+                    width="270"
+                  />
+                  <h3>Eduardo Cesar</h3>
+                  <h4 class="text-center">Arquiteto de software</h4>
+                  <h5>ZarpSystem</h5>
+                </div>
+                <div class="col-md-3">
+                  <img
+                    src="//hermes.digitalinnovation.one/site/images/teachers/camilacampos.jpeg"
+                    alt="Camila Campos"
+                    width="270"
+                  />
+                  <h3>Camila Campos</h3>
+                  <h4 class="text-center">Software Engineer</h4>
+                  <h5>Creditas</h5>
+                </div>
+                <div class="col-md-3">
+                  <img
+                    src="//hermes.digitalinnovation.one/users/author/photos/d9269277-3a8e-49a5-b5ab-a4571cda0f76.png"
+                    alt="Gabriel Faraday"
+                    width="270"
+                  />
+                  <h3>Gabriel Faraday</h3>
+                  <h4 class="text-center">.NET Developer</h4>
+                  <h5>Vidalink do Brasil</h5>
+                </div>
+                <div class="col-md-3">
+                  <img
+                    src="//hermes.digitalinnovation.one/site/images/teachers/thiagobarradas.jpeg"
+                    alt="Thiago Barradas"
+                    width="270"
+                  />
+                  <h3>Thiago Barradas</h3>
+                  <h4 class="text-center">Software Engineer</h4>
+                  <h5>MundiPagg</h5>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="study-pratice-free pt-5">
+  <div>
+    <div class="container-title mt-5">
+      <h2>
+        APRENDA E PRATIQUE GRATUITAMENTE AS TECNOLOGIAS UTILIZADAS PELAS EMPRESAS MAIS INOVADORAS DO MUNDO.
+      </h2>
+    </div>
+
+    <div class="row justify-content-space ml-0 mr-0">
+      <div class="col-xs-3 col-md-3 col-lg-3 col-xl-3">
+        <div>
+
+          <img src="http://hermes.digitalinnovation.one/site/images/dev_full_stack.png" alt="dev full stack">
+        </div>
+        <h3>DESENVOLVIMENTO FULL-STACK</h3>
+        <p>ARQUITETURA DE SISTEMAS</p>
+        <p>HTML</p>
+        <p>CSS</p>
+        <p>SCRUM</p>
+        <p>GIT</p>
+        <p>GITHUB</p>
+        <p>JAVASCRIPT</p>
+        <p>REACTJS</p>
+        <p>NODEJS</p>
+        <p>PHP</p>
+        <p>PYTHON</p>
+        <p>JAVA</p>
+        <p>MONGODB</p>
+        <p>POSTGRESQL</p>
+      </div>
+
+      <div class="col-xs-3 col-md-3 col-lg-3 col-xl-3">
+        <div>
+
+          <img src="http://hermes.digitalinnovation.one/site/images/dev_front_end.png" alt="dev front end">
+        </div>
+        <h3>DESENVOLVIMENTO FRONT-END</h3>
+        <p>ARQUITETURA DE SISTEMAS</p>
+        <p>HTML</p>
+        <p>CSS</p>
+        <p>SCRUM</p>
+        <p>GIT</p>
+        <p>GITHUB</p>
+        <p>JAVASCRIPT</p>
+        <p>REACTJS</p>
+      </div>
+
+      <div class="col-xs-3 col-md-3 col-lg-3 col-xl-3">
+        <div>
+
+          <img src="http://hermes.digitalinnovation.one/site/images/dev_back_end.png" alt="dev back end">
+        </div>
+        <h3>DESENVOLVIMENTO BACK-END</h3>
+        <p>ARQUITETURA DE SISTEMAS</p>
+        <p>HTML</p>
+        <p>CSS</p>
+        <p>SCRUM</p>
+        <p>GIT</p>
+        <p>GITHUB</p>
+        <p>NODEJS</p>
+        <p>PHP</p>
+        <p>PYTHON</p>
+        <p>JAVA</p>
+        <p>MONGODB</p>
+        <p>POSTGRESQL</p>
+      </div>
+
+      <div class="col-xs-3 col-md-3 col-lg-3 col-xl-3">
+        <div>
+          <img src="http://hermes.digitalinnovation.one/site/images/dev_mobile.png" alt="dev mobile">
+        </div>
+        <h3>DESENVOLVIMENTO MOBILE</h3>
+        <p>ARQUITETURA DE SISTEMAS</p>
+        <p>HTML</p>
+        <p>CSS</p>
+        <p>SCRUM</p>
+        <p>GIT</p>
+        <p>GITHUB</p>
+        <p>JAVASCRIPT</p>
+        <p>REACT NATIVE</p>
+        <p>SWIFT</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="success-story">
+
+  <h3 class="success-story-title mb-5">
+    SUA HISTÓRIA DE SUCESSO PODE COMEÇAR AQUI.
+  </h3>
+
+  <div class="container">
+    <div class="row blog">
+      <div class="col-md-12">
+        <div id="blogCarousel" class="carousel slide" data-ride="carousel">
+
+          <ol class="carousel-indicators" id="our-partners-images">
+            <img data-target="#blogCarousel" data-slide-to="0" class="active"
+              src="//hermes.digitalinnovation.one/site/images/testimonial-person/rafaelcosta.png" alt="rafael costa">
+
+            <img data-target="#blogCarousel" data-slide-to="1"
+              src="//hermes.digitalinnovation.one/site/images/testimonial-person/victorgonzalez.png"
+              alt="Victor Gonzalez">
+
+            <img data-target="#blogCarousel" data-slide-to="2"
+              src="//hermes.digitalinnovation.one/site/images/testimonial-person/victorsilva.png" alt="victor silva">
+
+            <img data-target="#blogCarousel" data-slide-to="3"
+              src="//hermes.digitalinnovation.one/site/images/testimonial-person/kelenascimento.png"
+              alt="kele nascimento">
+
+            <img data-target="#blogCarousel" data-slide-to="4"
+              src="//hermes.digitalinnovation.one/site/images/testimonial-person/joseeloi.png" alt="jose eloi">
+
+            <img data-target="#blogCarousel" data-slide-to="5"
+              src="//hermes.digitalinnovation.one/site/images/testimonial-person/mariomouro.png" alt="mario mouro">
+          </ol>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="row success-story-participant-quotes">
+                <div class="col-md-2 d-flex align-items-start pr-0 justify-content-end">
+                  <img src="//hermes.digitalinnovation.one/site/images/icons/quotes.png" class="open-quotes"
+                    alt="open quotation marks">
+                </div>
+                <div class="col-md-8 success-story-participant-container text-white">
+                  <h3>A DIO foi um marco muito importante na minha carreira, eu fazia apenas o técnico em informática
+                    quando comecei a estudar pela plataforma, logo depois fui chamado para uma oportunidade de vaga.
+                    Eram 2 vagas para o estágio e 140 participantes e, graças às aulas e projetos práticos que eu
+                    estudei na DIO, consegui ser um desses 2 desenvolvedores.</h3>
+                </div>
+                <div class="col-md-2 close-quotes-container">
+                  <img src="//hermes.digitalinnovation.one/site/images/icons/quotes.png" alt="close quotation marks">
+                </div>
+              </div>
+              <br>
+              <div class="row participant-title-container">
+                <p class="participant-name">RAFAEL COSTA </p>
+                <p class="participant-title"> &nbsp; | SOFTWARE DEVELOPER - DIGITAL INNOVATION ONE</p>
+              </div>
+            </div>
+
+            <div class="carousel-item">
+              <div class="row success-story-participant-quotes">
+                <div class="col-md-2 d-flex align-items-start pr-0 justify-content-end">
+                  <img src="//hermes.digitalinnovation.one/site/images/icons/quotes.png" class="open-quotes"
+                    alt="open quotation marks">
+                </div>
+                <div class="col-md-8 success-story-participant-container text-white">
+                  <h3>A DIO foi um dos motivos de alegria para mim. A plataforma tem uma proposta muito nobre de
+                    empresa:
+                    democratizar o ensino de tecnologia pra todo mundo e com isso ajudar muitos jovens a realizar seus
+                    sonhos, assim como também movimentar o mercado de TI, pois as empresas conseguem ter acesso a novos
+                    talentos.</h3>
+                </div>
+                <div class="col-md-2 close-quotes-container">
+                  <img src="//hermes.digitalinnovation.one/site/images/icons/quotes.png" alt="close quotation marks">
+                </div>
+              </div>
+              <br>
+              <div class="row participant-title-container">
+                <p class="participant-name">VICTOR GONZALEZ </p>
+                <p class="participant-title"> &nbsp; | DATA SCIENTIST - GRUPO CRIANDO VALOR</p>
+              </div>
+            </div>
+
+            <div class="carousel-item">
+              <div class="row success-story-participant-quotes">
+                <div class="col-md-2 d-flex align-items-start pr-0 justify-content-end">
+                  <img src="//hermes.digitalinnovation.one/site/images/icons/quotes.png" class="open-quotes"
+                    alt="open quotation marks">
+                </div>
+                <div class="col-md-8 success-story-participant-container text-white">
+                  <h3>A plataforma me ajudou bastante em um dos meus objetivos: estar empregado na área. Agora estou
+                    como desenvolver júnior em uma empresa! A plataforma abrange bastante conteúdo, desde o mais básico
+                    até o mais avançado, sobre tecnologia e também sobre metodologias ágeis, que atualmente está
+                    presente em muitas empresas de desenvolvimento e tecnologia.</h3>
+                </div>
+                <div class="col-md-2 close-quotes-container">
+                  <img src="//hermes.digitalinnovation.one/site/images/icons/quotes.png" alt="close quotation marks">
+                </div>
+              </div>
+              <br>
+              <div class="row participant-title-container">
+                <p class="participant-name">VICTOR SILVA </p>
+                <p class="participant-title"> &nbsp; | DESENVOLVEDOR JÚNIOR - SCAN BRAZIL CONSULTING</p>
+              </div>
+            </div>
+
+            <div class="carousel-item">
+              <div class="row success-story-participant-quotes">
+                <div class="col-md-2 d-flex align-items-start pr-0 justify-content-end">
+                  <img src="//hermes.digitalinnovation.one/site/images/icons/quotes.png" class="open-quotes"
+                    alt="open quotation marks">
+                </div>
+                <div class="col-md-8 success-story-participant-container text-white">
+                  <h3>O cenário de inovação e tecnologia é novo pra mim, então quando eu decidi mudar de área não sabia
+                    por onde começar. Foi então que eu conheci a DIO. Os cursos oferecidos são capazes de ensinar o que
+                    muitas vezes a formação acadêmica não consegue preencher. Além disso, os projetos práticos
+                    contribuem
+                    para a criação do meu portfólio e também consigo estabelecer conexões com profissionais, ganhando
+                    visibilidade no mercado.</h3>
+                </div>
+                <div class="col-md-2 close-quotes-container">
+                  <img src="//hermes.digitalinnovation.one/site/images/icons/quotes.png" alt="close quotation marks">
+                </div>
+              </div>
+              <br>
+              <div class="row participant-title-container">
+                <p class="participant-name">KELE NASCIMENTO</p>
+                <p class="participant-title"> &nbsp; | SECRETÁRIA DA SEÇÃO DE PROGRAMAÇÃO E LOGÍSTICA - RECEITA FEDERAL
+                </p>
+              </div>
+            </div>
+
+            <div class="carousel-item">
+              <div class="row success-story-participant-quotes">
+                <div class="col-md-2 d-flex align-items-start pr-0 justify-content-end">
+                  <img src="//hermes.digitalinnovation.one/site/images/icons/quotes.png" class="open-quotes"
+                    alt="open quotation marks">
+                </div>
+                <div class="col-md-8 success-story-participant-container text-white">
+                  <h3>Os cursos são excelentes, eu particularmente usei muito da plataforma para front, web e back-end.
+                    Esse material me ajudou muito nas provas e até mesmo para o que eu utilizo no meu estágio, assim
+                    como vai ajudar outros alunos.</h3>
+                </div>
+                <div class="col-md-2 close-quotes-container">
+                  <img src="//hermes.digitalinnovation.one/site/images/icons/quotes.png" alt="close quotation marks">
+                </div>
+              </div>
+              <br>
+              <div class="row participant-title-container">
+                <p class="participant-name">JOSÉ ELOI SOUZA GUERRA JÚNIOR </p>
+                <p class="participant-title"> &nbsp; | ESTUDANTE - IFSP</p>
+              </div>
+            </div>
+
+            <div class="carousel-item">
+              <div class="row success-story-participant-quotes">
+                <div class="col-md-2 d-flex align-items-start pr-0 justify-content-end">
+                  <img src="//hermes.digitalinnovation.one/site/images/icons/quotes.png" class="open-quotes"
+                    alt="open quotation marks">
+                </div>
+                <div class="col-md-8 success-story-participant-container text-white">
+                  <h3>O propósito da DIO é mudar o mundo através da educação. A plataforma oferece muitas oportunidades
+                    através dos cursos ministrados por excelentes profissionais. Hoje eu participo de um grande projeto,
+                    que progride a cada dia e vai render muitos frutos em breve.</h3>
+                </div>
+                <div class="col-md-2 close-quotes-container">
+                  <img src="//hermes.digitalinnovation.one/site/images/icons/quotes.png" alt="close quotation marks">
+                </div>
+              </div>
+              <br>
+              <div class="row participant-title-container">
+                <p class="participant-name">MARIO MOURO</p>
+                <p class="participant-title"> &nbsp; | ATENDENTE TRAINEE - BRASILSEG</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+</section>
+
+<section class="our-partners-companies">
+  <div class="partners-ecosystem">
+    <img src="https://hermes.digitalinnovation.one/site/business/marketingsolutions.gif">
+  </div>
+
+  <div class="row title-companies-us px-4 mb-3">
+    <h3>AS EMPRESAS MAIS INOVADORAS DO MERCADO JÁ ESTÃO COM A GENTE</h3>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row companies-partners">
+      <div class="col-md-3 justify-content-center">
+        <a href="https://www.gft.com/br/pt/index/?utm_source=digitalinnovationone">
+          <img class="" src="//hermes.digitalinnovation.one/site/images/companies-partners/gft.png" />
+        </a>
+      </div>
+      <div class="col-md-3 justify-content-center">
+        <a href="https://www.carrefour.com.br/institucional/grupo-carrefour?utm_source=digitalinnovationone">
+          <img class="" src="//hermes.digitalinnovation.one/site/images/companies-partners/carrefour.png" />
+        </a>
+      </div>
+      <div class="col-md-3 justify-content-center">
+        <a href="http://www.seprosp.org.br/?utm_source=digitalinnovationone">
+          <img class="" src="//hermes.digitalinnovation.one/site/images/companies-partners/seprosp.png" />
+        </a>
+      </div>
+      <div class="col-md-3 justify-content-center">
+        <a href="https://spdata.com.br/?utm_source=digitalinnovationone">
+          <img class="" src="//hermes.digitalinnovation.one/site/images/companies-partners/spdata.png" />
+        </a>
+      </div>
+    </div>
+    <div class="row companies-partners">
+      <div class="col-md-3 justify-content-center">
+        <a href="https://impulso.link/digitalinnovationone">
+          <img class="" src="//hermes.digitalinnovation.one/site/images/companies-partners/impulso.png" />
+        </a>
+      </div>
+      <div class="col-md-3 justify-content-center">
+        <a href="https://artit.com.br/?utm_source=digitalinnovationone">
+          <img class="" src="//hermes.digitalinnovation.one/site/images/companies-partners/art-it.png" />
+        </a>
+      </div>
+      <div class="col-md-3 justify-content-center">
+        <a href="https://www.carrefoursolucoes.com.br/sobre?utm_source=digitalinnovationone">
+          <img class="" src="//hermes.digitalinnovation.one/site/images/companies-partners/banco-carrefour.png" />
+        </a>
+      </div>
+      <div class="col-md-3 justify-content-center">
+        <a href="https://stefanini.com/pt-br?utm_source=digitalinnovationone">
+          <img class="" src="//hermes.digitalinnovation.one/site/images/companies-partners/stefanini.png" />
+        </a>
+      </div>
+    </div>
+    </div>
+
+  </div>
+</section>
+
+<section class="cta-signup align-items-center">
+  <div class="container-fluid">
+
+    <div class="row title text-center align-items-center">
+      <h3>CURTIU?</h3>
+      <h3>COMECE AGORA MESMO GRATUITAMENTE SUA NOVA CARREIRA.</h3>
+      <a class="btn btn-danger mt-3" href="/sign-up">
+        CRIAR MINHA CONTA GRÁTIS
+      </a>
+    </div>
+  </div>
+</section>
+
+<footer class="footer module bg-dark">
+  <div class="container-fluid">
+    <div class="row pt-5 pb-5 footer-row">
+      <div
+        class="col-md-2 col-responsive "
+        style="visibility: visible; animation-name: fadeInUp;"
+      >
+        <div class="team-item">
+          <div>
+            <div>
+              <img
+                width="100%"
+                src="https://hermes.digitalinnovation.one/site/images/logo-sm-white.png"
+                alt="Digital Innovation One"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="col-md-2 col-responsive"
+        style="visibility: visible; animation-name: fadeInUp;"
+      >
+        <div class="team-item" style="text-align: left">
+          <div style="font-size: 15px;">
+            <a href="/">
+              Para Você
+            </a>
+          </div>
+
+          <div style="font-size: 15px;">
+            <a href="https://projetos.digitalinnovation.one/blog">
+              Blog
+            </a>
+          </div>
+
+          <br />
+
+          <div style="font-size: 15px;">
+            <a href="https://app.digitalinnovation.one/terms/">
+              Termos de Uso
+            </a>
+          </div>
+
+          <div style="font-size: 15px;">
+            <a href="https://app.digitalinnovation.one/policy/">
+              Política de Privacidade
+            </a>
+          </div>
+        </div>
+      </div>
+      <div
+        class="col-md-2 col-responsive"
+        style="visibility: visible; animation-name: fadeInUp;"
+      >
+        <div class="team-item">
+          <div>
+            <div>
+              <a
+                target="_blank"
+                href="https://itunes.apple.com/us/app/digital-innovation-one/id1439709522"
+              >
+                <svg
+                  xml:space="preserve"
+                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                  style="enable-background:new 0 0 141 45;"
+                  version="1.1"
+                  viewBox="0 0 141 45"
+                  x="0px"
+                  xmlns="http://www.w3.org/2000/svg"
+                  y="0px"
+                >
+                  <style type="text/css">
+                    .colabappstore {
+                      fill: #ffffff;
+                    }
+                  </style>
+                  <g>
+                    <path
+                      class="colabappstore"
+                      d="M133.3,2.8c2.1,0,3.8,1.7,3.8,3.8l0,30.5c0,2.1-1.7,3.8-3.8,3.8H7.8c-2.1,0-3.8-1.7-3.8-3.8V6.7
+                            c0-2.1,1.7-3.8,3.8-3.8H133.3 M133.3,1.8H7.8C5.1,1.8,2.9,4,2.9,6.7v30.5c0,2.7,2.2,4.8,4.8,4.8h125.5c2.7,0,4.8-2.2,4.8-4.8
+                            l0-30.5C138.1,4,135.9,1.8,133.3,1.8L133.3,1.8z"
+                    ></path>
+                    <g>
+                      <g>
+                        <g>
+                          <path
+                            class="colabappstore"
+                            d="M33.2,21.7c0-3.2,2.6-4.8,2.8-4.9c-1.5-2.2-3.9-2.5-4.7-2.5c-2-0.2-3.9,1.2-4.9,1.2c-1,0-2.6-1.2-4.2-1.1
+                                  c-2.1,0-4.1,1.3-5.2,3.2c-2.3,3.9-0.6,9.7,1.6,12.9c1.1,1.6,2.4,3.3,4,3.2c1.6-0.1,2.2-1,4.2-1c1.9,0,2.5,1,4.2,1
+                                  c1.7,0,2.8-1.6,3.9-3.1c1.3-1.8,1.8-3.5,1.8-3.6C36.6,26.9,33.2,25.6,33.2,21.7z"
+                          ></path>
+                          <path
+                            class="colabappstore"
+                            d="M30,12.2c0.9-1.1,1.5-2.6,1.3-4.1C30,8.2,28.4,9,27.5,10.1C26.7,11,26,12.6,26.2,14
+                                  C27.6,14.1,29.1,13.3,30,12.2z"
+                          ></path>
+                        </g>
+                      </g>
+                    </g>
+                    <g>
+                      <g>
+                        <path
+                          class="colabappstore"
+                          d="M56.8,33.4h-2.3l-1.2-3.9h-4.3l-1.2,3.9h-2.2l4.3-13.3h2.6L56.8,33.4z M52.9,27.9l-1.1-3.5
+                                c-0.1-0.4-0.3-1.2-0.7-2.5h0c-0.1,0.6-0.3,1.4-0.6,2.5l-1.1,3.5H52.9z"
+                        ></path>
+                        <path
+                          class="colabappstore"
+                          d="M67.8,28.5c0,1.6-0.4,2.9-1.3,3.9c-0.8,0.8-1.8,1.3-2.9,1.3c-1.3,0-2.2-0.5-2.7-1.4h0v5.1h-2.1V27
+                                c0-1,0-2.1-0.1-3.2h1.9l0.1,1.5h0c0.7-1.1,1.8-1.7,3.2-1.7c1.1,0,2.1,0.4,2.8,1.3C67.4,25.9,67.8,27.1,67.8,28.5z M65.6,28.6
+                                c0-0.9-0.2-1.7-0.6-2.3c-0.5-0.6-1.1-0.9-1.9-0.9c-0.5,0-1,0.2-1.4,0.5c-0.4,0.3-0.7,0.8-0.8,1.4c-0.1,0.3-0.1,0.5-0.1,0.6v1.6
+                                c0,0.7,0.2,1.3,0.6,1.8c0.4,0.5,1,0.7,1.7,0.7c0.8,0,1.4-0.3,1.9-0.9C65.4,30.4,65.6,29.6,65.6,28.6z"
+                        ></path>
+                        <path
+                          class="colabappstore"
+                          d="M78.8,28.5c0,1.6-0.4,2.9-1.3,3.9c-0.8,0.8-1.8,1.3-2.9,1.3c-1.3,0-2.2-0.5-2.7-1.4h0v5.1h-2.1V27
+                                c0-1,0-2.1-0.1-3.2h1.9l0.1,1.5h0c0.7-1.1,1.8-1.7,3.2-1.7c1.1,0,2.1,0.4,2.8,1.3C78.4,25.9,78.8,27.1,78.8,28.5z M76.7,28.6
+                                c0-0.9-0.2-1.7-0.6-2.3c-0.5-0.6-1.1-0.9-1.9-0.9c-0.5,0-1,0.2-1.4,0.5c-0.4,0.3-0.7,0.8-0.8,1.4c-0.1,0.3-0.1,0.5-0.1,0.6v1.6
+                                c0,0.7,0.2,1.3,0.6,1.8c0.4,0.5,1,0.7,1.7,0.7c0.8,0,1.4-0.3,1.9-0.9C76.4,30.4,76.7,29.6,76.7,28.6z"
+                        ></path>
+                        <path
+                          class="colabappstore"
+                          d="M91.2,29.7c0,1.1-0.4,2.1-1.2,2.8c-0.9,0.8-2.1,1.2-3.6,1.2c-1.4,0-2.6-0.3-3.4-0.8l0.5-1.8
+                                c0.9,0.6,2,0.9,3.1,0.9c0.8,0,1.4-0.2,1.9-0.5c0.4-0.4,0.7-0.8,0.7-1.5c0-0.5-0.2-1-0.6-1.4c-0.4-0.4-1-0.7-1.8-1
+                                c-2.3-0.9-3.5-2.1-3.5-3.8c0-1.1,0.4-2,1.2-2.7c0.8-0.7,1.9-1,3.3-1c1.2,0,2.2,0.2,3,0.6l-0.5,1.7c-0.8-0.4-1.6-0.6-2.5-0.6
+                                c-0.8,0-1.3,0.2-1.8,0.6c-0.4,0.3-0.5,0.7-0.5,1.2c0,0.5,0.2,1,0.6,1.3c0.4,0.3,1,0.7,1.9,1c1.1,0.5,2,1,2.5,1.6
+                                C90.9,28,91.2,28.8,91.2,29.7z"
+                        ></path>
+                        <path
+                          class="colabappstore"
+                          d="M98.2,25.4h-2.3v4.7c0,1.2,0.4,1.8,1.2,1.8c0.4,0,0.7,0,0.9-0.1l0.1,1.6c-0.4,0.2-1,0.2-1.7,0.2
+                                c-0.8,0-1.5-0.3-2-0.8c-0.5-0.5-0.7-1.4-0.7-2.6v-4.8h-1.4v-1.6h1.4v-1.8l2.1-0.6v2.4h2.3V25.4z"
+                        ></path>
+                        <path
+                          class="colabappstore"
+                          d="M108.8,28.6c0,1.5-0.4,2.7-1.3,3.6c-0.9,1-2.1,1.5-3.5,1.5c-1.4,0-2.5-0.5-3.4-1.4c-0.8-0.9-1.3-2.1-1.3-3.5
+                                c0-1.5,0.4-2.7,1.3-3.7c0.9-0.9,2-1.4,3.5-1.4c1.4,0,2.5,0.5,3.4,1.4C108.4,25.9,108.8,27.1,108.8,28.6z M106.6,28.6
+                                c0-0.9-0.2-1.6-0.6-2.3c-0.4-0.8-1.1-1.1-1.9-1.1c-0.9,0-1.5,0.4-2,1.1c-0.4,0.6-0.6,1.4-0.6,2.3c0,0.9,0.2,1.6,0.6,2.3
+                                c0.5,0.8,1.1,1.1,1.9,1.1c0.8,0,1.5-0.4,1.9-1.2C106.4,30.3,106.6,29.5,106.6,28.6z"
+                        ></path>
+                        <path
+                          class="colabappstore"
+                          d="M115.7,25.7c-0.2,0-0.4-0.1-0.7-0.1c-0.8,0-1.3,0.3-1.7,0.8c-0.4,0.5-0.5,1.1-0.5,1.9v5h-2.1l0-6.6
+                                c0-1.1,0-2.1-0.1-3h1.9l0.1,1.8h0.1c0.2-0.6,0.6-1.1,1.1-1.5c0.5-0.3,1-0.5,1.5-0.5c0.2,0,0.4,0,0.5,0V25.7z"
+                        ></path>
+                        <path
+                          class="colabappstore"
+                          d="M125.3,28.2c0,0.4,0,0.7-0.1,1h-6.4c0,0.9,0.3,1.7,0.9,2.2c0.5,0.4,1.2,0.7,2.1,0.7c0.9,0,1.8-0.2,2.6-0.5
+                                l0.3,1.5c-0.9,0.4-2,0.6-3.2,0.6c-1.5,0-2.7-0.4-3.5-1.3c-0.8-0.9-1.3-2.1-1.3-3.5c0-1.4,0.4-2.7,1.2-3.6c0.8-1,1.9-1.5,3.4-1.5
+                                c1.4,0,2.4,0.5,3.1,1.5C125,26,125.3,27,125.3,28.2z M123.3,27.6c0-0.6-0.1-1.2-0.4-1.6c-0.4-0.6-0.9-0.9-1.7-0.9
+                                c-0.7,0-1.3,0.3-1.7,0.9c-0.4,0.5-0.6,1-0.6,1.7L123.3,27.6L123.3,27.6z"
+                        ></path>
+                      </g>
+                    </g>
+                    <g>
+                      <g>
+                        <g>
+                          <path
+                            class="colabappstore"
+                            d="M51.1,13.5c0,0.5-0.2,1-0.6,1.3c-0.5,0.4-1.2,0.6-2.3,0.6c-0.5,0-1,0-1.4-0.1V8.9c0.4-0.1,1-0.1,1.6-0.1
+                                  c0.8,0,1.4,0.1,1.8,0.4c0.4,0.3,0.6,0.7,0.6,1.2c0,0.3-0.1,0.6-0.3,0.8c-0.2,0.3-0.5,0.4-0.8,0.6v0c0.4,0.1,0.7,0.3,0.9,0.5
+                                  C51,12.7,51.1,13.1,51.1,13.5z M49.8,10.5c0-0.6-0.4-1-1.3-1c-0.3,0-0.5,0-0.7,0.1v1.9h0.6c0.4,0,0.7-0.1,1-0.3
+                                  C49.7,11.1,49.8,10.8,49.8,10.5z M50,13.5c0-0.4-0.2-0.7-0.5-0.9c-0.3-0.2-0.6-0.3-1.1-0.3h-0.6v2.3c0.1,0,0.3,0,0.6,0
+                                  c0.4,0,0.8-0.1,1.1-0.3C49.9,14.2,50,13.9,50,13.5z"
+                          ></path>
+                          <path
+                            class="colabappstore"
+                            d="M56.2,15.4h-0.9l-0.1-0.5h0c-0.3,0.4-0.8,0.6-1.4,0.6c-0.4,0-0.8-0.1-1.1-0.4c-0.2-0.3-0.4-0.6-0.4-1
+                                  c0-0.6,0.2-1,0.7-1.3c0.5-0.3,1.2-0.5,2-0.4v-0.1c0-0.6-0.3-0.9-1-0.9c-0.5,0-0.9,0.1-1.2,0.3L52.7,11c0.4-0.3,1-0.4,1.6-0.4
+                                  c1.2,0,1.8,0.7,1.8,2v1.7C56.2,14.7,56.2,15.1,56.2,15.4z M55.1,13.7V13c-1.2,0-1.7,0.3-1.7,1c0,0.2,0.1,0.4,0.2,0.6
+                                  c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.6-0.2c0.2-0.1,0.3-0.3,0.4-0.6C55.1,13.9,55.1,13.8,55.1,13.7z"
+                          ></path>
+                          <path
+                            class="colabappstore"
+                            d="M59.2,9.2c0,0.2-0.1,0.3-0.2,0.5c-0.1,0.1-0.3,0.2-0.5,0.2c-0.2,0-0.3-0.1-0.4-0.2
+                                  c-0.1-0.1-0.2-0.3-0.2-0.5c0-0.2,0.1-0.3,0.2-0.4c0.1-0.1,0.3-0.2,0.5-0.2c0.2,0,0.3,0.1,0.5,0.2C59.1,8.9,59.2,9.1,59.2,9.2z
+                                  M59,15.4h-1v-4.7h1V15.4z"
+                          ></path>
+                          <path
+                            class="colabappstore"
+                            d="M64.7,15.4h-1.2l-0.6-1c-0.1-0.2-0.3-0.5-0.4-0.8h0c-0.1,0.2-0.2,0.4-0.4,0.8l-0.6,1h-1.1l1.6-2.4l-1.6-2.3
+                                  h1.2l0.6,0.9c0.1,0.2,0.3,0.4,0.4,0.7h0c0.1-0.3,0.3-0.5,0.4-0.8l0.6-0.9h1.1l-1.6,2.3L64.7,15.4z"
+                          ></path>
+                          <path
+                            class="colabappstore"
+                            d="M69.6,15.4h-0.9l-0.1-0.5h0c-0.3,0.4-0.8,0.6-1.4,0.6c-0.4,0-0.8-0.1-1.1-0.4c-0.2-0.3-0.4-0.6-0.4-1
+                                  c0-0.6,0.2-1,0.7-1.3c0.5-0.3,1.2-0.5,2-0.4v-0.1c0-0.6-0.3-0.9-1-0.9c-0.5,0-0.9,0.1-1.2,0.3L66,11c0.4-0.3,1-0.4,1.6-0.4
+                                  c1.2,0,1.8,0.7,1.8,2v1.7C69.5,14.7,69.5,15.1,69.6,15.4z M68.5,13.7V13c-1.2,0-1.7,0.3-1.7,1c0,0.2,0.1,0.4,0.2,0.6
+                                  c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.6-0.2c0.2-0.1,0.3-0.3,0.4-0.6C68.5,13.9,68.5,13.8,68.5,13.7z"
+                          ></path>
+                          <path
+                            class="colabappstore"
+                            d="M73.8,11.6c-0.1,0-0.2,0-0.3,0c-0.4,0-0.7,0.1-0.9,0.4c-0.2,0.2-0.3,0.6-0.3,0.9v2.5h-1l0-3.2
+                                  c0-0.5,0-1,0-1.5h0.9l0,0.9h0c0.1-0.3,0.3-0.6,0.5-0.7c0.2-0.2,0.5-0.3,0.8-0.3c0.1,0,0.2,0,0.3,0V11.6z"
+                          ></path>
+                          <path
+                            class="colabappstore"
+                            d="M82.1,15.4h-1v-2.7c0-0.8-0.3-1.2-0.9-1.2c-0.3,0-0.6,0.1-0.8,0.3C79.1,12,79,12.3,79,12.6v2.8h-1V12
+                                  c0-0.4,0-0.9,0-1.3h0.9l0,0.7h0c0.1-0.2,0.3-0.4,0.5-0.6c0.3-0.2,0.6-0.3,0.9-0.3c0.4,0,0.8,0.1,1.1,0.4
+                                  c0.4,0.3,0.5,0.9,0.5,1.6V15.4z"
+                          ></path>
+                          <path
+                            class="colabappstore"
+                            d="M87.5,15.4h-0.9l-0.1-0.5h0c-0.3,0.4-0.8,0.6-1.4,0.6c-0.4,0-0.8-0.1-1.1-0.4c-0.2-0.3-0.4-0.6-0.4-1
+                                  c0-0.6,0.2-1,0.7-1.3c0.5-0.3,1.2-0.5,2-0.4v-0.1c0-0.6-0.3-0.9-1-0.9c-0.5,0-0.9,0.1-1.2,0.3L83.9,11c0.4-0.3,1-0.4,1.6-0.4
+                                  c1.2,0,1.8,0.7,1.8,2v1.7C87.4,14.7,87.4,15.1,87.5,15.4z M86.4,13.7V13c-1.2,0-1.7,0.3-1.7,1c0,0.2,0.1,0.4,0.2,0.6
+                                  c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.6-0.2c0.2-0.1,0.3-0.3,0.4-0.6C86.4,13.9,86.4,13.8,86.4,13.7z"
+                          ></path>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </svg>
+              </a>
+            </div>
+            <div>
+              <a
+                target="_blank"
+                href="https://play.google.com/store/apps/details?id=one.digitalinnovation.app"
+              >
+                <svg
+                  xml:space="preserve"
+                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                  style="enable-background:new 0 0 141 45;"
+                  version="1.1"
+                  viewBox="0 0 141 45"
+                  x="0px"
+                  xmlns="http://www.w3.org/2000/svg"
+                  y="0px"
+                >
+                  <style type="text/css">
+                    .colab-g-play .st0 {
+                      fill: #ffffff;
+                    }
+                    .colab-g-play .st1 {
+                      opacity: 0.2;
+                      enable-background: new;
+                    }
+                    .colab-g-play .st2 {
+                      opacity: 0.12;
+                      enable-background: new;
+                    }
+                    .colab-g-play .st3 {
+                      opacity: 0.25;
+                      enable-background: new;
+                    }
+                  </style>
+                  <g class="colab-g-play">
+                    <g>
+                      <path
+                        class="st0"
+                        d="M133.1,3.4c2.2,0,4,1.8,4,4v30c0,2.2-1.8,4-4,4H8.1c-2.2,0-4-1.8-4-4v-30c0-2.2,1.8-4,4-4H133.1 M133.1,2.4
+                              H8.1c-2.7,0-5,2.3-5,5v30c0,2.8,2.2,5,5,5h125c2.8,0,5-2.2,5-5v-30C138.1,4.6,135.8,2.4,133.1,2.4L133.1,2.4z"
+                      ></path>
+                    </g>
+                    <path
+                      class="st0"
+                      d="M71.2,24.2c-2.4,0-4.3,1.8-4.3,4.3c0,2.4,1.9,4.3,4.3,4.3s4.3-1.8,4.3-4.3C75.5,25.9,73.5,24.2,71.2,24.2z
+                            M71.2,31c-1.3,0-2.4-1.1-2.4-2.6c0-1.5,1.1-2.6,2.4-2.6c1.3,0,2.4,1,2.4,2.6C73.6,29.9,72.5,31,71.2,31z M61.9,24.2
+                            c-2.4,0-4.3,1.8-4.3,4.3c0,2.4,1.9,4.3,4.3,4.3c2.4,0,4.3-1.8,4.3-4.3C66.1,25.9,64.2,24.2,61.9,24.2z M61.9,31
+                            c-1.3,0-2.4-1.1-2.4-2.6c0-1.5,1.1-2.6,2.4-2.6c1.3,0,2.4,1,2.4,2.6C64.3,29.9,63.2,31,61.9,31z M50.8,25.5v1.8h4.3
+                            c-0.1,1-0.5,1.8-1,2.3c-0.6,0.6-1.6,1.3-3.3,1.3c-2.7,0-4.7-2.1-4.7-4.8s2.1-4.8,4.7-4.8c1.4,0,2.5,0.6,3.3,1.3l1.3-1.3
+                            c-1.1-1-2.5-1.8-4.5-1.8c-3.6,0-6.7,3-6.7,6.6c0,3.6,3.1,6.6,6.7,6.6c2,0,3.4-0.6,4.6-1.9c1.2-1.2,1.6-2.9,1.6-4.2
+                            c0-0.4,0-0.8-0.1-1.1H50.8z M96.1,26.9c-0.4-1-1.4-2.7-3.6-2.7c-2.2,0-4,1.7-4,4.3c0,2.4,1.8,4.3,4.2,4.3c1.9,0,3.1-1.2,3.5-1.9
+                            l-1.5-1c-0.5,0.7-1.1,1.2-2.1,1.2c-1,0-1.6-0.4-2.1-1.3l5.7-2.4L96.1,26.9z M90.3,28.3c0-1.6,1.3-2.5,2.2-2.5
+                            c0.7,0,1.4,0.4,1.6,0.9L90.3,28.3z M85.7,32.4h1.9V19.9h-1.9V32.4z M82.6,25.1L82.6,25.1c-0.5-0.5-1.3-1-2.3-1
+                            c-2.1,0-4.1,1.9-4.1,4.3c0,2.4,1.9,4.2,4.1,4.2c1,0,1.8-0.5,2.2-1h0.1v0.6c0,1.6-0.9,2.5-2.3,2.5c-1.1,0-1.9-0.8-2.1-1.5L76.6,34
+                            c0.5,1.1,1.7,2.5,3.8,2.5c2.2,0,4-1.3,4-4.4v-7.6h-1.8V25.1z M80.5,31c-1.3,0-2.4-1.1-2.4-2.6c0-1.5,1.1-2.6,2.4-2.6
+                            c1.3,0,2.3,1.1,2.3,2.6C82.8,29.9,81.8,31,80.5,31z M104.9,19.9h-4.5v12.5h1.9v-4.7h2.6c2.1,0,4.1-1.5,4.1-3.9
+                            C109,21.4,106.9,19.9,104.9,19.9z M104.9,25.9h-2.7v-4.3h2.7c1.4,0,2.2,1.2,2.2,2.1C107.1,24.7,106.3,25.9,104.9,25.9z M116.4,24.1
+                            c-1.4,0-2.8,0.6-3.3,1.9l1.7,0.7c0.4-0.7,1-0.9,1.7-0.9c1,0,1.9,0.6,2,1.6v0.1c-0.3-0.2-1.1-0.5-1.9-0.5c-1.8,0-3.6,1-3.6,2.8
+                            c0,1.7,1.5,2.8,3.1,2.8c1.3,0,1.9-0.6,2.4-1.2h0.1v1h1.8v-4.8C120.2,25.4,118.6,24.1,116.4,24.1z M116.2,31c-0.6,0-1.5-0.3-1.5-1.1
+                            c0-1,1.1-1.3,2-1.3c0.8,0,1.2,0.2,1.7,0.4C118.3,30.2,117.3,31,116.2,31z M126.8,24.4l-2.1,5.4h-0.1l-2.2-5.4h-2l3.3,7.6l-1.9,4.2
+                            h1.9l5.1-11.8H126.8z M110,32.4h1.9V19.9H110V32.4z"
+                    ></path>
+                    <g>
+                      <g>
+                        <path
+                          class="st0"
+                          d="M13.3,10.3C13.2,10.3,13.2,10.3,13.3,10.3L13.3,10.3c-0.1,0.1-0.1,0.1-0.1,0.1c0,0-0.1,0.1-0.1,0.2
+                                c0,0,0,0.1,0,0.1c0,0.1-0.1,0.2-0.1,0.3c0,0.1,0,0.3,0,0.4v22.1c0,0.4,0.1,0.8,0.2,1.1l0,0l12.1-12.1L13.3,10.3z"
+                        ></path>
+                      </g>
+                      <g>
+                        <path
+                          class="st0"
+                          d="M36.1,22.4c0,0.5-0.3,1-1.1,1.5l-4.3,2.5l-0.1-0.1l-3.8-3.8l3.8-3.8l0.1-0.1l4.3,2.5
+                                C35.8,21.3,36.1,21.9,36.1,22.4z"
+                        ></path>
+                      </g>
+                      <g>
+                        <path
+                          class="st0"
+                          d="M29.7,26.7l-3.6-3.6l-12,12L14,35.2c0,0,0.1,0,0.2,0h0c0,0,0.1,0,0.1,0c0,0,0,0,0.1,0h0.1c0,0,0,0,0,0h0.1
+                                c0.1,0,0.1,0,0.2,0c0,0,0,0,0.1,0c0,0,0,0,0.1,0c0.1,0,0.2-0.1,0.3-0.1c0.1,0,0.2-0.1,0.3-0.1l14.3-8.1L29.7,26.7z"
+                        ></path>
+                      </g>
+                      <g>
+                        <path
+                          class="st0"
+                          d="M15.6,9.9L29.8,18l-3.7,3.7l-12-12L14,9.6c0,0,0.1,0,0.1,0C14.6,9.5,15,9.6,15.6,9.9z"
+                        ></path>
+                      </g>
+                      <g>
+                        <g class="st1">
+                          <path
+                            class="st0"
+                            d="M29.8,26.8l-14.3,8.1c-0.1,0.1-0.2,0.1-0.3,0.1c-0.1,0-0.2,0.1-0.3,0.1c0,0,0,0-0.1,0c0,0,0,0-0.1,0
+                                  c-0.1,0-0.1,0-0.2,0h-0.1c0,0,0,0,0,0c0,0-0.1,0-0.1,0c0,0,0,0-0.1,0c0,0,0,0-0.1,0c0,0-0.1,0-0.1,0h0c-0.1,0-0.1,0-0.2,0
+                                  c0,0-0.1,0-0.1,0c0,0,0.1,0,0.1,0l0.1-0.1c0.4,0.1,0.9,0,1.4-0.3l14.2-8L29.8,26.8z"
+                          ></path>
+                        </g>
+                        <g class="st2">
+                          <path
+                            class="st0"
+                            d="M13,33.3c0,0.5,0.1,0.9,0.3,1.2l0,0c-0.2-0.3-0.2-0.6-0.2-1.1V33.3z"
+                          ></path>
+                        </g>
+                      </g>
+                      <g class="st2">
+                        <path
+                          class="st0"
+                          d="M36.1,22.4c0,0.5-0.3,1-1.1,1.5l-4.3,2.5l-0.1-0.1l4.4-2.5C35.7,23.3,36.1,22.9,36.1,22.4z"
+                        ></path>
+                      </g>
+                      <g class="st3">
+                        <path
+                          class="st0"
+                          d="M13.3,10.3C13.1,10.6,13,11,13,11.5v-0.1c0-0.1,0-0.3,0-0.4c0-0.1,0-0.2,0.1-0.3c0,0,0-0.1,0-0.1
+                                C13.2,10.5,13.2,10.4,13.3,10.3C13.2,10.4,13.2,10.4,13.3,10.3L13.3,10.3C13.2,10.3,13.2,10.3,13.3,10.3L13.3,10.3
+                                C13.3,10.2,13.3,10.2,13.3,10.3C13.3,10.2,13.3,10.2,13.3,10.3L13.3,10.3z"
+                        ></path>
+                        <path
+                          class="st0"
+                          d="M15.6,9.9L29.8,18l-0.1,0.1l-14.2-8c-0.5-0.3-1-0.4-1.4-0.3L14,9.6c0,0,0.1,0,0.1,0
+                                C14.6,9.5,15,9.6,15.6,9.9z"
+                        ></path>
+                        <path
+                          class="st0"
+                          d="M36.1,22.4c-0.1-0.5-0.4-0.9-1.1-1.3l-4.4-2.5l0.1-0.1l4.3,2.5C35.8,21.3,36.1,21.9,36.1,22.4z"
+                        ></path>
+                      </g>
+                    </g>
+                    <g>
+                      <path
+                        class="st0"
+                        d="M44.4,15.4v-6h1.8c0.9,0,1.7,0.3,2.2,0.8c0.6,0.6,0.8,1.3,0.8,2.2c0,0.9-0.3,1.6-0.8,2.2
+                              c-0.6,0.6-1.3,0.8-2.2,0.8H44.4z M45.2,14.7h1.1c0.7,0,1.2-0.2,1.6-0.6s0.6-1,0.6-1.7c0-0.7-0.2-1.3-0.6-1.7
+                              c-0.4-0.4-1-0.6-1.6-0.6h-1.1V14.7z"
+                      ></path>
+                      <path class="st0" d="M50.4,15.4v-6h0.8v6H50.4z"></path>
+                      <path
+                        class="st0"
+                        d="M54.2,15.5c-0.4,0-0.9-0.1-1.3-0.4c-0.4-0.3-0.7-0.7-0.8-1.2l0.7-0.3c0.1,0.3,0.3,0.6,0.5,0.8
+                              c0.3,0.2,0.6,0.3,0.9,0.3c0.3,0,0.6-0.1,0.9-0.3c0.2-0.2,0.4-0.4,0.4-0.7c0-0.3-0.1-0.6-0.4-0.8c-0.2-0.2-0.6-0.3-1.1-0.5
+                              c-0.5-0.2-0.9-0.4-1.2-0.6c-0.3-0.3-0.4-0.6-0.4-1c0-0.4,0.2-0.8,0.5-1.1c0.3-0.3,0.8-0.5,1.3-0.5c0.5,0,0.9,0.1,1.2,0.4
+                              c0.3,0.3,0.5,0.5,0.6,0.8l-0.7,0.3c-0.1-0.2-0.2-0.4-0.4-0.5c-0.2-0.2-0.5-0.2-0.8-0.2c-0.3,0-0.5,0.1-0.8,0.2
+                              c-0.2,0.2-0.3,0.4-0.3,0.6c0,0.2,0.1,0.4,0.3,0.6c0.2,0.2,0.5,0.3,0.9,0.4c0.3,0.1,0.5,0.2,0.7,0.3c0.2,0.1,0.4,0.2,0.6,0.4
+                              c0.2,0.1,0.4,0.3,0.5,0.6c0.1,0.2,0.2,0.5,0.2,0.8c0,0.3-0.1,0.5-0.2,0.8c-0.1,0.2-0.3,0.4-0.5,0.5c-0.2,0.1-0.4,0.2-0.6,0.3
+                              C54.7,15.5,54.4,15.5,54.2,15.5z"
+                      ></path>
+                      <path
+                        class="st0"
+                        d="M58.1,15.4h-0.8v-6h2c0.5,0,0.9,0.2,1.3,0.5c0.4,0.3,0.6,0.8,0.6,1.3c0,0.5-0.2,0.9-0.6,1.3
+                              c-0.4,0.3-0.8,0.5-1.3,0.5h-1.3V15.4z M58.1,12.2h1.3c0.3,0,0.6-0.1,0.8-0.3c0.2-0.2,0.3-0.5,0.3-0.7s-0.1-0.5-0.3-0.7
+                              c-0.2-0.2-0.5-0.3-0.8-0.3h-1.3V12.2z"
+                      ></path>
+                      <path
+                        class="st0"
+                        d="M67.1,14.6c-0.6,0.6-1.3,0.9-2.2,0.9c-0.9,0-1.6-0.3-2.2-0.9c-0.6-0.6-0.9-1.3-0.9-2.2c0-0.9,0.3-1.6,0.9-2.2
+                              c0.6-0.6,1.3-0.9,2.2-0.9c0.9,0,1.6,0.3,2.2,0.9c0.6,0.6,0.9,1.3,0.9,2.2C68,13.3,67.7,14,67.1,14.6z M63.3,14.1
+                              c0.4,0.4,1,0.7,1.6,0.7c0.6,0,1.2-0.2,1.6-0.7c0.4-0.5,0.7-1,0.7-1.7c0-0.7-0.2-1.3-0.7-1.7c-0.4-0.4-1-0.7-1.6-0.7
+                              c-0.6,0-1.2,0.2-1.6,0.7c-0.4,0.5-0.7,1-0.7,1.7C62.6,13.1,62.8,13.7,63.3,14.1z"
+                      ></path>
+                      <path
+                        class="st0"
+                        d="M69.1,15.4v-6H70l2.9,4.7h0l0-1.2V9.4h0.8v6h-0.8l-3.1-4.9h0l0,1.2v3.7H69.1z"
+                      ></path>
+                      <path
+                        class="st0"
+                        d="M75.1,15.4v-6h0.8v6H75.1z M75.8,8.9h-0.7l0.4-1.1h0.8L75.8,8.9z"
+                      ></path>
+                      <path
+                        class="st0"
+                        d="M78.7,15.4l-2.1-6h0.9l1.6,4.9h0l1.7-4.9h0.9l-2.2,6H78.7z"
+                      ></path>
+                      <path
+                        class="st0"
+                        d="M86.1,10.1h-2.7V12h2.5v0.7h-2.5v1.9h2.7v0.7h-3.5v-6h3.5V10.1z"
+                      ></path>
+                      <path
+                        class="st0"
+                        d="M87.3,15.4v-6H88v5.3h2.6v0.7H87.3z"
+                      ></path>
+                      <path
+                        class="st0"
+                        d="M93.6,15.4v-6h0.9l2.9,4.7h0l0-1.2V9.4h0.8v6h-0.8l-3.1-4.9h0l0,1.2v3.7H93.6z"
+                      ></path>
+                      <path
+                        class="st0"
+                        d="M104.5,14.6c-0.6,0.6-1.3,0.9-2.2,0.9c-0.9,0-1.6-0.3-2.2-0.9c-0.6-0.6-0.9-1.3-0.9-2.2
+                              c0-0.9,0.3-1.6,0.9-2.2c0.6-0.6,1.3-0.9,2.2-0.9c0.9,0,1.6,0.3,2.2,0.9c0.6,0.6,0.9,1.3,0.9,2.2C105.4,13.3,105.1,14,104.5,14.6z
+                              M100.7,14.1c0.4,0.4,1,0.7,1.6,0.7c0.6,0,1.2-0.2,1.6-0.7c0.4-0.5,0.7-1,0.7-1.7c0-0.7-0.2-1.3-0.7-1.7c-0.4-0.4-1-0.7-1.6-0.7
+                              c-0.6,0-1.2,0.2-1.6,0.7c-0.4,0.5-0.7,1-0.7,1.7C100,13.1,100.2,13.7,100.7,14.1z"
+                      ></path>
+                    </g>
+                    <g>
+                      <path
+                        class="st0"
+                        d="M13.3,10.2C13.3,10.2,13.3,10.2,13.3,10.2L13.3,10.2L13.3,10.2C13.3,10.2,13.3,10.2,13.3,10.2z"
+                      ></path>
+                    </g>
+                    <g>
+                      <path
+                        class="st0"
+                        d="M14,35.2L14,35.2c0,0-0.1,0-0.1,0C13.9,35.2,14,35.2,14,35.2z"
+                      ></path>
+                    </g>
+                  </g>
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="col-md-2  offset-lg-1 col-responsive"
+        style="visibility: visible; animation-name: fadeInUp;"
+      >
+        <div class="team-item">
+          <div>
+            <div>
+              <h4 style="text-align: center">Estamos na</h4>
+            </div>
+            <div>
+              <a target="_blank" href="https://globallabs.ventures/">
+                <img
+                  width="100%"
+                  src="https://hermes.digitalinnovation.one/site/images/GLStudio.png"
+                  alt="Icone Global Labs"
+                />
+              </a>
+            </div>
+            <br />
+            <div style="text-align: center">
+              Av. Sete de Setembro, 371 Araraquara - SP - 14800-390
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="col-md-3 col-responsive"
+        style="visibility: visible; animation-name: fadeInUp;"
+      >
+        <div class="float-lg-right">
+          <div>
+            <div>
+              <i class="fa fa-phone" style="font-size:12px"></i>
+              (16) 3508-5250
+            </div>
+            <br />
+            <div class="mb-3">
+              <i class="far fa-envelope" style="font-size:12px"></i>
+              contato@digitalinnovation.one
+            </div>
+            <div class="team-descr">
+              <a
+                target="_blank"
+                href="https://www.facebook.com/digitalinnovationone/"
+              >
+                <i
+                  class="fab fa-facebook-square"
+                  style="font-size:25px; color: #fff;"
+                ></i>
+              </a>
+              &nbsp;
+              <a
+                target="_blank"
+                href="https://www.instagram.com/digitalinnovation.one/"
+              >
+                <i
+                  class="fab fa-instagram"
+                  style="font-size:25px; color: #fff;"
+                ></i>
+              </a>
+              &nbsp;
+              <a
+                target="_blank"
+                href="https://www.linkedin.com/company/digitalinnovation-one/"
+              >
+                <i
+                  class="fab fa-linkedin"
+                  style="font-size:25px; color: #fff;"
+                ></i>
+              </a>
+              &nbsp;
+              <a
+                target="_blank"
+                href="https://www.youtube.com/channel/UCMxqhdELkftE8DuBZiwdPfg"
+              >
+                <i
+                  class="fab fa-youtube"
+                  style="font-size:25px; color: #fff;"
+                ></i>
+              </a>
+              &nbsp;
+              <a target="_blank" href="https://twitter.com/dio4tech">
+                <i class="fab fa-twitter" style="font-size:25px; color: #fff;">
+                </i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<div class="dio">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-10">
+        <p class="copyright font-alt">
+          © 2019&nbsp; <a href="/">Digital Innovation One</a>, All Rights
+          Reserved
+        </p>
+        <p class="document">
+          ACADEMIA PME EDUCACAO E CONSULTORIA EM NEGOCIOS LTDA | CNPJ:
+          26.965.884/0001-02
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+    </main>
+    <!--Segments-->
+    <script>
+      !(function() {
+        var analytics = (window.analytics = window.analytics || []);
+        if (!analytics.initialize)
+          if (analytics.invoked)
+            window.console &&
+              console.error &&
+              console.error("Segment snippet included twice.");
+          else {
+            analytics.invoked = !0;
+            analytics.methods = [
+              "trackSubmit",
+              "trackClick",
+              "trackLink",
+              "trackForm",
+              "pageview",
+              "identify",
+              "reset",
+              "group",
+              "track",
+              "ready",
+              "alias",
+              "debug",
+              "page",
+              "once",
+              "off",
+              "on"
+            ];
+            analytics.factory = function(t) {
+              return function() {
+                var e = Array.prototype.slice.call(arguments);
+                e.unshift(t);
+                analytics.push(e);
+                return analytics;
+              };
+            };
+            for (var t = 0; t < analytics.methods.length; t++) {
+              var e = analytics.methods[t];
+              analytics[e] = analytics.factory(e);
+            }
+            analytics.load = function(t, e) {
+              var n = document.createElement("script");
+              n.type = "text/javascript";
+              n.async = !0;
+              n.src =
+                "https://cdn.segment.com/analytics.js/v1/" +
+                t +
+                "/analytics.min.js";
+              var a = document.getElementsByTagName("script")[0];
+              a.parentNode.insertBefore(n, a);
+              analytics._loadOptions = e;
+            };
+            analytics.SNIPPET_VERSION = "4.1.0";
+            analytics.load("3OVnvIh6yXupEgIXmtJLWnJd7gwJACnx");
+            analytics.page();
+          }
+      })();
+    </script>
+    <!--End Segments-->
+    <script src="/static/app.js"></script>
+    <script src="static/increase-number.js"></script>
+    <script src="static/solutions-mkt-animation.js"></script>
+    <script src="static/recruitment-solutions.js"></script>
+    <script src="static/training-solutions.js"></script>
+    <script src="static/home-responsive-rules.js"></script>
+    <script src="static/intlTelInput.js"></script>
+  </body>
+</html>
